@@ -1,0 +1,55 @@
+_repo: Sophokles_70604
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Manninen, Otto
+    alias: Manninen, O.
+    birthdate: 1872
+    deathdate: 1950
+    gutenberg_agent_id: '4617'
+    url: http://www.gutenberg.org/2009/agents/4617
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Otto_Manninen
+    - https://fi.wikipedia.org/wiki/Otto_Manninen
+  - agent_name: Tuulio, Tyyni
+    aliases:
+    - Haapanen-Tallgren, Tyyne
+    - Haapanen-Tallgren, Tyyni
+    - Haapanen, Tyyni
+    - Tallgren, Tyyni
+    birthdate: 1892
+    deathdate: 1991
+    gutenberg_agent_id: '44797'
+    url: http://www.gutenberg.org/2009/agents/44797
+    wikipedia: https://fi.wikipedia.org/wiki/Tyyni_Tuulio
+creator:
+  author:
+    agent_name: Zilliacus, Emil
+    alias: Zilliacus, Gustaf Emil
+    birthdate: 1878
+    deathdate: 1961
+    gutenberg_agent_id: '55820'
+    url: http://www.gutenberg.org/2009/agents/55820
+    wikipedia: https://fi.wikipedia.org/wiki/Emil_Zilliacus
+description: ''
+gutenberg_issued: '2023-04-20'
+identifiers:
+  gutenberg: '70604'
+language: fi
+pgterms:marc905: 20230413102731zilliacus
+pgterms:marc906: '1920'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bWSOY, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sophocles'
+- !lcc 'PA'
+- GITenberg
+tableOfContents: Kreikalainen tragedia -- Aiskhylos -- Sophokleen elämä ja toiminta
+  -- Aias -- Elektra -- Trakhiin naiset; Philoktetes -- Antigone -- Kuningas Oidipus
+  -- Oidipus Kolonoksessa.
+title: Sophokles
+url: http://www.gutenberg.org/ebooks/70604
