@@ -22,6 +22,9 @@ contributor:
     gutenberg_agent_id: '44797'
     url: http://www.gutenberg.org/2009/agents/44797
     wikipedia: https://fi.wikipedia.org/wiki/Tyyni_Tuulio
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zilliacus, Emil
@@ -32,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55820
     wikipedia: https://fi.wikipedia.org/wiki/Emil_Zilliacus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70604#Sophokles
 gutenberg_issued: '2023-04-20'
 identifiers:
   gutenberg: '70604'
